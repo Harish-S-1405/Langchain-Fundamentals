@@ -21,4 +21,4 @@ chat_history.append(HumanMessage(content="What is 2 🦜 9?"))
 result = model.invoke(chat_history)
 
 # 5. Print response
-print(result.content)
+print(result.content)ss
